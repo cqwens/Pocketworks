@@ -1,4 +1,4 @@
-module Pocketworks
+module github.com/cqwens/Pocketworks
 
 go 1.23.4
 
